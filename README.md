@@ -27,6 +27,6 @@ Most individuals do not regularly track their assets, liabilities, and daily exp
 
 ## How to Run
 ```bash
-git clone  https://github.com/dhruv25bai10952/finance-tracker.git
+git clone  https://github.com/dhruv25bai10952/personal-finance-tracker.git
 cd finance-tracker
 python main.py
